@@ -68,7 +68,7 @@ In today’s competitive online environment, staying ahead of your competitors i
 
 With WP Dynamic Keywords Injector (WPDKI PRO), you are taking the first step toward optimizing your WordPress site for higher search rankings, improved ad performance, and better user engagement. Join the growing list of businesses that are using this powerful tool to drive measurable results.
 
-Begin your journey now and discover how WPDKI PRO can transform your SEO strategy and boost your online presence.
+Begin your journey now and discover how **WPDKI PRO** can transform your SEO strategy and boost your online presence.
 
 ## Quick Access Links
 <br>*[Official website of WPDKI PRO](https://wpdki.com/)*</br>
