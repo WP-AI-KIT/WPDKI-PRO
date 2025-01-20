@@ -69,6 +69,8 @@ If you’re serious about improving your SEO, traffic, and sales, WP Dynamic Key
 - **Boost Google Ads ROI**: The plugin helps you create more relevant ads, driving better traffic and improving ad performance.
 - **Enhance User Experience**: Dynamic keyword injection makes your content more engaging and relevant to your audience, increasing interaction and conversions.
 ## 14-Day Money-Back Guarantee: Risk-Free Experience
+
+<img src="https://github.com/user-attachments/assets/821b12e0-6356-4cc4-bbf9-620232a4bab7" alt="images (2)" width="290" align="right" style="margin-right: 70px; margin-bottom: 70px;">
 When you choose WP Dynamic Keywords Injector (WPDKI PRO), we want you to feel completely confident in your decision. That’s why we offer a 14-day money-back guarantee. If, for any reason, the plugin does not meet your expectations or fulfill your specific requirements, you can request a full refund within 14 days of your purchase. Your satisfaction is our top priority, and we stand by the quality and effectiveness of our product.
 
 ## Hear From Our Satisfied Customers:
