@@ -39,25 +39,11 @@ If you’re running Google Ads campaigns, WPDKI enhances their effectiveness by 
 ### 3. Better User Engagement
 WPDKI PRO is not only about search engines — it’s also about creating a better user experience. By dynamically adjusting the keywords in your content, it makes your website more relevant to the needs and searches of your visitors. This leads to better engagement, higher time spent on page, and ultimately more conversions.
 
-## How to Use WP Dynamic Keywords Injector (WPDKI PRO)
-Using *[WP Dynamic Keywords Injector (WPDKI PRO)](https://wpdki.com/)* is simple and user-friendly. Here’s how you can get started:
-
-### Step 1: Install and Activate the Plugin
-The first step is to install WP Dynamic Keywords Injector PRO  from the WordPress Plugin Repository or from the *[WPAIKIT](https://wpaikit.com/)* website. After installation, activate the plugin from your WordPress dashboard.
-
-### Step 2: Define Your Keywords
-Once the plugin is activated, go to the WPDKI settings page and define your main target keyword. For example, if you run a fitness blog, your main keyword might be “healthy recipes.” Then, you can define secondary keyword sets related to the primary keyword — like “low-carb recipes,” “keto meals,” and “nutritious meals.”
-
-### Step 3: Integrate with Your Content
-With your keyword sets in place, WPDKI will automatically inject these keywords into your posts and pages. The plugin uses tags and shortcodes to replace keywords dynamically, making the process seamless. You can also add media like images and videos to further enhance your content’s appeal.
-
 #### Here is the complete guide, including *[Plugin Installation Guide and resources](https://wpdki.com/knowledge-base/)*, for WP Dynamic Keywords Injector (WPDKI PRO).
 
 ## Real Results: WPDKI in Action
 WPDKI isn’t just theory; it’s proven to work in the real world. Websites that implement dynamic keyword strategies with WPDKI see measurable improvements in their traffic and sales.
 
-### Case Study:
-A client in the e-commerce industry saw a 30% increase in organic traffic and a 20% boost in sales within just one month of using WPDKI. These results were driven by better keyword targeting, optimized content, and improved Google Ads relevance.
 
 ## Why You Need WPDKI for Your WordPress Site
 If you’re serious about improving your SEO, traffic, and sales, WP Dynamic Keywords Injector should be a core part of your strategy. Here’s why:
