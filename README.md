@@ -86,7 +86,11 @@ With WP Dynamic Keywords Injector (WPDKI PRO), you are taking the first step tow
 
 Begin your journey now and discover how WPDKI PRO can transform your SEO strategy and boost your online presence.
 
-For more information and to get started, visit *[WPAIKIT](https://wpaikit.com/)*.
+## Quick Access Links
+<br>*[Official website of WPDKI PRO](https://wpdki.com/)*</br>
+<br>*[Complete documentation about installation and basic guides ](https://wpdki.com/knowledge-base/)*</br>
+<br>*[Detailed Youtube videos on it](https://www.youtube.com/@wpdkipro)*</br>
+<br>*[Discover WPDKI PRO and More Plugins on WPAIKIT](https://wpaikit.com/)*</br>
 
 
 
